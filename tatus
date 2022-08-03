@@ -1,0 +1,17 @@
+[33mcommit f9f1fb062563173d8b0857e9becf9f986d05cbf1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jhonatan <jhonatanadrianosoto@gmail.com>
+Date:   Mon Aug 1 10:42:30 2022 -0500
+
+    Cree los archivos figuras en html y js luego en README añadí los pasos que realizare con el curso prático
+
+[33mcommit da57767ae2f0f11ce279d69bc60f3845ba9f3b8b[m
+Author: Jhonatan <jhonatanadrianosoto@gmail.com>
+Date:   Mon Aug 1 10:07:39 2022 -0500
+
+    Añadí el .vscode en la ultima parte de .gitignore
+
+[33mcommit 70045839cc29fef9de81de3b01dbcc0b07cc135e[m
+Author: Jhonatan2209 <97798490+Jhonatan2209@users.noreply.github.com>
+Date:   Sat Jul 30 09:48:24 2022 -0500
+
+    Initial commit

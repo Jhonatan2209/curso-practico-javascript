@@ -1,0 +1,55 @@
+div.estilouno{
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+    background-color: aqua;
+    padding: 5%;
+    border-radius: 2%;
+    border-color: rebeccapurple;
+    
+}
+h1{
+    color: red;
+}
+form.cuadradoc>*{
+    display: block;
+    
+    margin: auto;
+    text-align: center;
+}
+form.triangulotri>*{
+    
+    display: block;
+    margin: auto;
+    text-align: center;
+    
+}
+form.circuloci>*{
+
+    display: block;
+    margin: auto;
+    text-align: center;
+    
+}
+div.estilodos{
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+    margin-top: 50px;
+    background-color: orange;
+    padding: 5%;
+    border-radius: 2%;
+}
+div.estilotres{
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+    margin-top: 50px;   
+    background-color: gray;
+    padding: 5%;
+    border-radius: 2%;
+    
+}
