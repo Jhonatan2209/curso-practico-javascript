@@ -20,7 +20,6 @@ function CalcularPerimetroTriangulo(){
     var lado1 = Number(input.lado1.value);
     var lado2 = Number(input.lado2.value);
     var base = Number(input.base.value);
-    var altura = Number(input.altura.value);
     var perimetro = ptriangulo(lado1,lado2,base);
     alert(perimetro);
 }
@@ -73,4 +72,15 @@ function pcirculo(radio){
 
 function acirculo(radio){
      return (radio*radio)*pi;
+}
+
+
+function iso(l1,l2,l3){
+    if(l1 == l2|| l1 == l3 ){
+        var altura =  4*(l1*l1)-(l2*l2);
+        var resultado = Math.sqrt(altura)/2;
+        return(resultado);
+    }else{
+        alert("no es un triangulo isoceles")
+    }
 }

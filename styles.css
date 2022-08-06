@@ -1,13 +1,19 @@
 div.estilouno{
     margin: auto;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0%;
+    margin-bottom: 0%;
     background-color: aqua;
     padding: 5%;
     border-radius: 2%;
     border-color: rebeccapurple;
-    
+
+}
+div.todo{
+    display: flex;
+    padding: 0%;
+   
 }
 h1{
     color: red;
@@ -17,6 +23,7 @@ form.cuadradoc>*{
     
     margin: auto;
     text-align: center;
+    
 }
 form.triangulotri>*{
     
@@ -27,27 +34,26 @@ form.triangulotri>*{
 }
 form.circuloci>*{
 
-    display: block;
+    display: flex;
     margin: auto;
     text-align: center;
     
 }
 div.estilodos{
     margin: auto;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 10px;
-    margin-top: 50px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0%;    
     background-color: orange;
     padding: 5%;
     border-radius: 2%;
 }
 div.estilotres{
     margin: auto;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 10px;
-    margin-top: 50px;   
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0%;  
+    margin-bottom: 0%; 
     background-color: gray;
     padding: 5%;
     border-radius: 2%;
